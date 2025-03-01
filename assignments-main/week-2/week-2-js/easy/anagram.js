@@ -5,7 +5,13 @@
 */
 
 function isAnagram(str1, str2) {
+  for(let i of str1){
+    if (str1[i]===str2){
+      
+    }
 
+  }
+  return true;
 }
 
 module.exports = isAnagram; 
